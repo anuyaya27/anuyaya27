@@ -15,10 +15,6 @@
 - **UCSD Economics Dept. (Research Assistant)** – Analyzing economic trends with data modeling.  
 - **Triton Quantitative Trading Club (VP - Finance & Ops)** – Managing budgets and sponsorships.  
 
-## 📌 Projects  
-- 🧠 **[Emocia](#)** - AI-driven facial recognition for interactive computing.  
-- 📈 **[Profit Panda](#)** - Automated stock trading bot for hospitality markets.  
-
 ## 📫 Let's Connect!  
 📧 Email: [27ananyasaxena@gmail.com](mailto:27ananyasaxena@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/a3saxena](https://linkedin.com/in/a3saxena)  
