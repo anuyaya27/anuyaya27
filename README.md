@@ -8,7 +8,7 @@
 🔹 Programming: `Java`, `Python`, `JavaScript`, `Kotlin`, `SQL`, `MATLAB`, `C`  
 🔹 AI/ML: `TensorFlow`, `PyTorch`, `OpenCV`, `MediaPipe`  
 🔹 Finance & Quant: Trading Strategies, Financial Data Analysis  
-🔹 Tools: `Git`, `Linux`, `React`, `Angular`  
+🔹 Tools: `Git`, `Linux`, `React`  
 
 ## 🏆 Experience  
 - **ICPC Foundation (Problem Solving Intern)** – Creating complex programming contest problems.  
