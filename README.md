@@ -10,11 +10,6 @@
 🔹 Finance & Quant: Trading Strategies, Financial Data Analysis  
 🔹 Tools: `Git`, `Linux`, `React`  
 
-## 🏆 Experience  
-- **ICPC Foundation (Problem Solving Intern)** – Creating complex programming contest problems.  
-- **UCSD Economics Dept. (Research Assistant)** – Analyzing economic trends with data modeling.  
-- **Triton Quantitative Trading Club (VP - Finance & Ops)** – Managing budgets and sponsorships.  
-
 ## 📫 Let's Connect!  
 📧 Email: [27ananyasaxena@gmail.com](mailto:27ananyasaxena@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/a3saxena](https://linkedin.com/in/a3saxena)  
