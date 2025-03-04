@@ -13,7 +13,7 @@
 ## 📫 Let's Connect!  
 📧 Email: [27ananyasaxena@gmail.com](mailto:27ananyasaxena@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/a3saxena](https://linkedin.com/in/a3saxena)  
-🌐 Website: [anuyaya27.github.io]((https://ananyasaxena.com/))  
+🌐 Website: [anuyaya27.github.io]((https://ananyasaxena.com/))
 
 ---
 
