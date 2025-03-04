@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Ananya Saxena  
 
-✨ I'm a student at **UC San Diego**, pursuing a Bachelor's in Mathematics-Computer Science & Economics.  
+✨ I'm a student at **UC San Diego**, pursuing a Bachelor's in Mathematics-Computer Science & Economics. 
 🤖 Passionate about **AI, Quantitative Finance, and Software Engineering**.  
 🔍 Always eager to **learn, innovate**, and solve challenging problems.  
 
