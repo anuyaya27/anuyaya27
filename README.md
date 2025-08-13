@@ -25,24 +25,17 @@
 `TensorFlow` `PyTorch` `Scikit-Learn` `XGBoost` `LSTM` `OpenCV` `Mediapipe` `Pandas` `NumPy` `Matplotlib`  
 
 **Finance & Quant Analysis**  
-Quantitative Finance • Trading Strategies • Backtesting • Risk Management • Financial Modeling • Credit Analysis
+`Quantitative Finance`  `Trading Strategies`  `Backtesting`  `Risk Management` `Financial Modeling`  `Credit Analysis`
 
 **Frameworks & Tools**  
 `Flask` `FastAPI` `React.js` `AWS` `Docker` `MongoDB` `REST APIs` `Git` `Tableau` `Oracle E-Business Suite`  
 
 ---
 
-## 🏆 Leadership & Activities
-- **Vice President – Finance**, Engineering Innovators & Entrepreneurs Club (UCSD)  
-- **Quantitative Data Science Researcher**, Triton Quantitative Trading Club  
-- **Orientation Leader**, Seventh College, UCSD
-
----
-
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/a3saxena)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/anuyaya27)  
-📧 Email: **ananyasaxena27@gmail.com**
+📧 Email: **27ananyasaxena@gmail.com**
 
 ---
 
