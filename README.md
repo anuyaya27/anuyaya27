@@ -1,6 +1,6 @@
 # Hi! I'm Ananya Saxena 👋
 
-🎓 **Junior at UC San Diego**  
+🎓 **Senior at UC San Diego**  
 📚 Double Major: **Mathematics–Computer Science** & **Economics**  
 💡 Passionate about the intersection of **technology**, **finance**, and **data-driven insights**  
 
