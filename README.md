@@ -1,4 +1,4 @@
-# Hi! I'm Ananya Saxena 👋
+# Hi! I'm Ananya Saxxena 👋
 
 🎓 **Senior at UC San Diego**  
 📚 Double Major: **Mathematics–Computer Science** & **Economics**  
