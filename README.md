@@ -2,7 +2,7 @@
 
 # Ananya Saxena
 
-**Mathematics–Computer Science & Economics** · UC San Diego '25
+**Mathematics–Computer Science & Economics** · UC San Diego '26
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&weight=600&size=20&duration=3000&pause=1200&color=1E40AF&center=true&vCenter=true&width=500&lines=Quantitative+Trading+%7C+AI%2FML+%7C+Data+Science;Building+Data-Driven+Solutions+for+Finance;Turning+Complex+Problems+into+Elegant+Models)](https://git.io/typing-svg)
 
