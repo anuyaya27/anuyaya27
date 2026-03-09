@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ananya Saxena
+# Ananya Saxxena
 
 **Mathematics–Computer Science & Economics** · UC San Diego '26
 
